@@ -1,0 +1,12 @@
+{
+  "name": "stream2408",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tsvn11/stream2408.git",
+  "author": "sondtt <sondtt@vng.com.vn>",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.4"
+  }
+}
